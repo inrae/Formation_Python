@@ -14,8 +14,8 @@ Prerequires
 * Sphinx v4.0
 * Miktex v20.11
 
-Edition
--------
+Edition De Contenu
+------------------
 
 Afin de modifier le contenu du document généré, il faut procéder de la façon suivante.
 Le texte brut est contenu dans les fichiers sources .py disponibles dans le repertoire.
