@@ -22,7 +22,7 @@ Le texte brut est contenu dans les fichiers sources .py disponibles dans le repe
 La modification d'un contenu déja existant est prise en compte lors de la compilation.
 Les fichiers de structure sont placés dans le repertoire source sous la nomenclature **.rst**
 
-Pour l'ajout d'un articles il est necessaire de modifier deux fichiers :
+Pour l'ajout d'un article il est necessaire de modifier deux fichiers :
   * ``Le fichier Python .py`` où la nomenclature utilisée pour la conception d'un article est la definition de fonction standard de type **def monArticle():** L'article est rédigé en RestructuredText en tant que docstring.
   * ``Le fichier source .rst`` présent dans le repertoire source où l'on souhaite rajouter l'article. L'article est automatiquement ajouté au contenu en utilisant la commande **.. autofunction:: NomDuFichier.NomDeLaFonction** déja utilisée pour la structure.
   
