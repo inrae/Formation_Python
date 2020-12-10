@@ -1,9 +1,9 @@
 **Support Intéractif de Formation Python**
 ==========================================
 
-Author : CABOS Matthieu
+*Author* : **CABOS Matthieu**
 
-Date : 08/12/2020
+*Date* : **10/12/2020**
 
 Générateur de documentation pour une Formation Python
 
